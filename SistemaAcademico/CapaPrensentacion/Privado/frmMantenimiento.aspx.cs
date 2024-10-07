@@ -40,5 +40,25 @@ namespace CapaPrensentacion.Privado
             // Redirigir a la página de inicio de sesión
             Response.Redirect("~/Login.aspx"); // Asegúrate de que esta ruta sea correcta
         }
+
+        protected void btnAlumnos_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("frmAlumno.aspx");
+        }
+
+        protected void btnCarreras_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("frmCarrera.aspx");
+        }
+
+        protected void btnAsignaturas_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("frmAsignatura.aspx");
+        }
+
+        protected void btnDocentes_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("frmDocente.aspx");
+        }
     }
 }

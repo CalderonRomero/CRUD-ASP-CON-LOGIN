@@ -46,7 +46,7 @@ namespace CapaPrensentacion
 
                 if (tabla.Rows.Count == 0)
                 {
-                    Login1.FailureText = "Usuario no autorizado!";
+                    Login1.FailureText = "Usuario o Contraseña incorrecto!";
                 }
                 else
                 {

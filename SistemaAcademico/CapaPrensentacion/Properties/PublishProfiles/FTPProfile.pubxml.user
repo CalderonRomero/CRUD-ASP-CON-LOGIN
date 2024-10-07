@@ -5,9 +5,9 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVcZEunPqVEadCtEuVw3HGwAAAAACAAAAAAAQZgAAAAEAACAAAAAqHPpYO/ZdVdIDlJmCQnJIv6XfDw6mnbnhnggBMS5cYQAAAAAOgAAAAAIAACAAAACUPFzbJHNP2SVLAbqPINDoPdmAXeYYoej6m9KYwmsiOyAAAABTeRlFDWkalE4QMJPDeMUvuA709w2emEPlwWYiq4iD8UAAAAB0oEdz3w0elTtIEssrWo8JsM7tMrtd2VZCxAGajIMbNRCH53Z9AWT0vrNdDgnHXARmg/ody8bFqeFz42GQwx34</EncryptedPassword>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVcZEunPqVEadCtEuVw3HGwAAAAACAAAAAAAQZgAAAAEAACAAAACmOmmDjMjlhabhN7rtA7m8hbEX7GR94p9lYIXe/aZzkQAAAAAOgAAAAAIAACAAAACph+szseTX+pA7kdso26VixRkQLJY0hpxO0F6zAJC0iiAAAAAZ6zPiMofrdMgYtM3Cbcf74Qsc04xRa7etU2OZPi/yo0AAAAD2prmjJAMoFHq2uIp6tO0Zd+/DYxJaD6i6YH0qHW6bjyeXvmNoXJbzmGB0P1TLqZhebZY3CD1IzNiLY0rw8gTI</EncryptedPassword>
     <_PublishTargetUrl>ftp://jherzondev.somee.com/www.jherzondev.somee.com</_PublishTargetUrl>
-    <History>True|2024-10-07T06:07:21.1065315Z||;</History>
+    <History>True|2024-10-07T19:47:57.0729860Z||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -30,10 +30,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/07/2024 00:42:25</publishTime>
     </File>
     <File Include="bin/CapaPrensentacion.dll">
-      <publishTime>10/07/2024 01:00:52</publishTime>
+      <publishTime>10/07/2024 14:41:32</publishTime>
     </File>
     <File Include="bin/CapaPrensentacion.pdb">
-      <publishTime>10/07/2024 01:00:52</publishTime>
+      <publishTime>10/07/2024 14:41:32</publishTime>
     </File>
     <File Include="bin/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
       <publishTime>09/26/2024 00:04:15</publishTime>
@@ -320,6 +320,9 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Content/Site.css">
       <publishTime>09/26/2024 00:03:51</publishTime>
     </File>
+    <File Include="css/StyleSheet1.css">
+      <publishTime>10/07/2024 13:59:31</publishTime>
+    </File>
     <File Include="Default.aspx">
       <publishTime>09/26/2024 00:03:51</publishTime>
     </File>
@@ -341,11 +344,14 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Global.asax">
       <publishTime>09/26/2024 00:03:51</publishTime>
     </File>
+    <File Include="img/bg1.jpg">
+      <publishTime>10/07/2024 13:45:57</publishTime>
+    </File>
     <File Include="index.aspx">
       <publishTime>10/07/2024 00:41:22</publishTime>
     </File>
     <File Include="Login.aspx">
-      <publishTime>10/06/2024 18:30:50</publishTime>
+      <publishTime>10/07/2024 14:38:10</publishTime>
     </File>
     <File Include="Privado/frmAlumno.aspx">
       <publishTime>10/06/2024 20:57:45</publishTime>
@@ -360,7 +366,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/06/2024 21:14:37</publishTime>
     </File>
     <File Include="Privado/frmMantenimiento.aspx">
-      <publishTime>10/06/2024 20:57:53</publishTime>
+      <publishTime>10/07/2024 13:58:19</publishTime>
     </File>
     <File Include="Privado/Web.config">
       <publishTime>10/06/2024 17:51:25</publishTime>

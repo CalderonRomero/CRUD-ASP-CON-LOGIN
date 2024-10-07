@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|c:\\users\\acer\\downloads\\crud-.net-framework\\sistemaacademico\\capaprensentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|c:\\users\\acer\\downloads\\crud-.net-framework\\sistemaacademico\\capaprensentacion\\privado\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{763FCDCC-9538-4E8E-9E7C-5C1B5ED09C82}|CapaPrensentacion\\CapaPrensentacion.csproj|solutionrelative:capaprensentacion\\privado\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Privado\\Web.config",
-              "RelativeDocumentMoniker": "CapaPrensentacion\\Privado\\Web.config",
-              "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Privado\\Web.config",
-              "RelativeToolTip": "CapaPrensentacion\\Privado\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-07T06:16:56.579Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +24,9 @@
               "RelativeDocumentMoniker": "CapaPrensentacion\\Web.config",
               "ToolTip": "C:\\Users\\ACER\\Downloads\\CRUD-.NET-FRAMEWORK\\SistemaAcademico\\CapaPrensentacion\\Web.config",
               "RelativeToolTip": "CapaPrensentacion\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-07T05:59:42.47Z",
+              "WhenOpened": "2024-10-07T19:49:42.675Z",
               "EditorCaption": ""
             }
           ]
