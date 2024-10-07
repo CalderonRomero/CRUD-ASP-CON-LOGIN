@@ -1,0 +1,6 @@
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.pdb

@@ -1,8 +1,5 @@
 -- Base de Datos Academico
 -- Hugo Espetia
-
-use master
-go
 --------------------------------------------------------------------------------------------
 if DB_ID('BDAcademico') is not null
    drop database BDAcademico
@@ -325,6 +322,7 @@ insert into TNotas values  ('A0007','S08','2010-II',12,7,12)
 go
 
 select * from TUsuario
+insert into TUsuario values ('yersson','123');
 go
 
 select * from TCarrera

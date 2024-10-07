@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Privado/frmMantenimiento.aspx" title="Inicio"  description="frmMantenimiento" >
+	<siteMapNode url="Privado/frmAlumno.aspx" title="frmAlumno"  description="Alumno" />
+	<siteMapNode url="Privado/frmDocente.aspx" title="frmDocente"  description="frmDocente" />
+	<siteMapNode url="Privado/frmCarrera.aspx" title="frmCarrera"  description="frmCarrera" />
+	<siteMapNode url="Privado/frmAsignatura.aspx" title="frmAsignatura"  description="frmAsignatura"> </siteMapNode>
+  </siteMapNode>
+</siteMap>

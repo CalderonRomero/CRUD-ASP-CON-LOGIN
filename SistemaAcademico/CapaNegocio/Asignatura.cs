@@ -32,11 +32,23 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
+                // Asegúrate de que la consulta permite valores nulos para CodRequisito
                 string consulta = "INSERT INTO TAsignatura (CodAsignatura, Asignatura, CodRequisito) VALUES (@CodAsignatura, @NombreAsignatura, @CodRequisito)";
+
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@CodAsignatura", CodAsignatura);
                 comando.Parameters.AddWithValue("@NombreAsignatura", NombreAsignatura);
-                comando.Parameters.AddWithValue("@CodRequisito", CodRequisito ?? (object)DBNull.Value);
+
+                // Aquí se establece CodRequisito como DBNull si es null o vacío
+                if (string.IsNullOrEmpty(CodRequisito))
+                {
+                    comando.Parameters.AddWithValue("@CodRequisito", DBNull.Value);
+                }
+                else
+                {
+                    comando.Parameters.AddWithValue("@CodRequisito", CodRequisito);
+                }
+
                 conexion.Open();
                 byte i = Convert.ToByte(comando.ExecuteNonQuery());
                 conexion.Close();

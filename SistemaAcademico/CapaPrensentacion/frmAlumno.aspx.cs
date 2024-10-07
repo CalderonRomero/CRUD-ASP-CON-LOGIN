@@ -19,11 +19,7 @@ namespace CapaPrensentacion
         }
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Cargar la lista solo la primera vez que se carga la página
-            if (!Page.IsPostBack)
-            {
-                Listar();
-            }
+             
         }
 
         protected void btnAgregar_Click(object sender, EventArgs e)
