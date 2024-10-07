@@ -5,9 +5,9 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVcZEunPqVEadCtEuVw3HGwAAAAACAAAAAAAQZgAAAAEAACAAAACNyCThrTWtdjp1j4KLkaah5tKteMaXB35NEWGWWOdqLwAAAAAOgAAAAAIAACAAAADC8zd/XP8AuiatFWBstQUqrlm4RtPtN+wxc/lOvfWZCSAAAACwQJtUi6fagC2FsFO6MmRY+sRsgXA7YqLi/APwAGvjqkAAAABUnrfcgPDvYopwHG1zu6t5qbK2CKSSWh+S9up9ZgChT1nny4sDLFBoc4DPmoQ38SIs4l/+7b82pvJbF045ZgyX</EncryptedPassword>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVcZEunPqVEadCtEuVw3HGwAAAAACAAAAAAAQZgAAAAEAACAAAAAqHPpYO/ZdVdIDlJmCQnJIv6XfDw6mnbnhnggBMS5cYQAAAAAOgAAAAAIAACAAAACUPFzbJHNP2SVLAbqPINDoPdmAXeYYoej6m9KYwmsiOyAAAABTeRlFDWkalE4QMJPDeMUvuA709w2emEPlwWYiq4iD8UAAAAB0oEdz3w0elTtIEssrWo8JsM7tMrtd2VZCxAGajIMbNRCH53Z9AWT0vrNdDgnHXARmg/ody8bFqeFz42GQwx34</EncryptedPassword>
     <_PublishTargetUrl>ftp://jherzondev.somee.com/www.jherzondev.somee.com</_PublishTargetUrl>
-    <History>True|2024-10-07T03:46:48.0968921Z||;</History>
+    <History>True|2024-10-07T06:07:21.1065315Z||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -24,16 +24,16 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/26/2024 00:04:15</publishTime>
     </File>
     <File Include="bin/CapaNegocio.dll">
-      <publishTime>06/10/2024 22:40:42</publishTime>
+      <publishTime>10/07/2024 00:42:25</publishTime>
     </File>
     <File Include="bin/CapaNegocio.pdb">
-      <publishTime>06/10/2024 22:40:42</publishTime>
+      <publishTime>10/07/2024 00:42:25</publishTime>
     </File>
     <File Include="bin/CapaPrensentacion.dll">
-      <publishTime>10/06/2024 22:54:13</publishTime>
+      <publishTime>10/07/2024 01:00:52</publishTime>
     </File>
     <File Include="bin/CapaPrensentacion.pdb">
-      <publishTime>10/06/2024 22:54:13</publishTime>
+      <publishTime>10/07/2024 01:00:52</publishTime>
     </File>
     <File Include="bin/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
       <publishTime>09/26/2024 00:04:15</publishTime>
@@ -341,26 +341,29 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="Global.asax">
       <publishTime>09/26/2024 00:03:51</publishTime>
     </File>
+    <File Include="index.aspx">
+      <publishTime>10/07/2024 00:41:22</publishTime>
+    </File>
     <File Include="Login.aspx">
-      <publishTime>06/10/2024 18:30:50</publishTime>
+      <publishTime>10/06/2024 18:30:50</publishTime>
     </File>
     <File Include="Privado/frmAlumno.aspx">
-      <publishTime>06/10/2024 20:57:45</publishTime>
+      <publishTime>10/06/2024 20:57:45</publishTime>
     </File>
     <File Include="Privado/frmAsignatura.aspx">
-      <publishTime>06/10/2024 21:13:46</publishTime>
+      <publishTime>10/06/2024 21:13:46</publishTime>
     </File>
     <File Include="Privado/frmCarrera.aspx">
-      <publishTime>06/10/2024 21:14:16</publishTime>
+      <publishTime>10/06/2024 21:14:16</publishTime>
     </File>
     <File Include="Privado/frmDocente.aspx">
-      <publishTime>06/10/2024 21:14:37</publishTime>
+      <publishTime>10/06/2024 21:14:37</publishTime>
     </File>
     <File Include="Privado/frmMantenimiento.aspx">
-      <publishTime>06/10/2024 20:57:53</publishTime>
+      <publishTime>10/06/2024 20:57:53</publishTime>
     </File>
     <File Include="Privado/Web.config">
-      <publishTime>06/10/2024 17:51:25</publishTime>
+      <publishTime>10/06/2024 17:51:25</publishTime>
     </File>
     <File Include="Scripts/bootstrap.bundle.js">
       <publishTime>09/26/2024 00:03:51</publishTime>
@@ -483,7 +486,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/26/2024 00:03:51</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>06/10/2024 19:29:06</publishTime>
+      <publishTime>10/06/2024 19:29:06</publishTime>
     </File>
     <File Include="Site.Mobile.Master">
       <publishTime>09/26/2024 00:03:51</publishTime>
@@ -492,10 +495,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/26/2024 00:03:51</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>06/10/2024 22:40:45</publishTime>
+      <publishTime>10/07/2024 01:01:00</publishTime>
     </File>
     <File Include="Web.sitemap">
-      <publishTime>06/10/2024 17:12:27</publishTime>
+      <publishTime>10/06/2024 17:12:27</publishTime>
     </File>
   </ItemGroup>
 </Project>

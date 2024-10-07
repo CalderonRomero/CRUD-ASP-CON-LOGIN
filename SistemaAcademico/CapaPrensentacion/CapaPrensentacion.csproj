@@ -128,6 +128,7 @@
     <Content Include="frmCarrera.aspx" />
     <Content Include="frmDocente.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="index.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Privado\frmAlumno.aspx" />
     <Content Include="Privado\frmAsignatura.aspx" />
@@ -251,6 +252,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>

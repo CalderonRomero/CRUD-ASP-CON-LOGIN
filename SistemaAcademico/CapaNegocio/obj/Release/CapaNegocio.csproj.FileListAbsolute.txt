@@ -4,3 +4,6 @@ C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Rel
 C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
 C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.dll
 C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\bin\Release\Newtonsoft.Json.dll
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\bin\Release\Newtonsoft.Json.xml
+C:\Users\ACER\Downloads\CRUD-.NET-FRAMEWORK\SistemaAcademico\CapaNegocio\obj\Release\CapaNego.81B9D119.Up2Date
